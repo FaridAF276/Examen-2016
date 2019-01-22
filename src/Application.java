@@ -16,6 +16,8 @@ public class Application {
         David.ajouterPanier(testeur,stock);
         David.ajouterPanier(testeur,stock);
 
+
+
     }
 }
 
